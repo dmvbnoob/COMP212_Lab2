@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "301369346(Brar)_Lab#2", "301369346(Brar)_Lab#2\301369346(Brar)_Lab#2.csproj", "{9911F105-CC4B-4985-8D96-8DEB26222239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotifClassLib", "NotifClassLib\NotifClassLib.csproj", "{F9970C5C-DE5C-4C9A-9565-59907703C108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9911F105-CC4B-4985-8D96-8DEB26222239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9911F105-CC4B-4985-8D96-8DEB26222239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9911F105-CC4B-4985-8D96-8DEB26222239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9911F105-CC4B-4985-8D96-8DEB26222239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9970C5C-DE5C-4C9A-9565-59907703C108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9970C5C-DE5C-4C9A-9565-59907703C108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9970C5C-DE5C-4C9A-9565-59907703C108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9970C5C-DE5C-4C9A-9565-59907703C108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDBCE6B9-E72B-4655-B588-4AB33A57991D}
+	EndGlobalSection
+EndGlobal
